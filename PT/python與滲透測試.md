@@ -1,0 +1,148 @@
+
+
+
+
+# 2019
+```
+
+
+```
+
+# 2018
+
+```
+[已買]Black Hat Python for Pentesters and Hackers [Video]
+Sunil Gupta
+Friday, November 30, 2018 
+
+WELCOME
+PYTHON COMPONENTS
+NETWORK RECONNAISSANCE WITH PYTHON
+WEB RECONNAISSANCE WITH PYTHON
+PASSWORD CRACKING WITH PYTHON
+ANTIVIRUS EVASION IN PYTHON
+FORENSIC INVESTIGATIONS WITH PYTHON
+```
+```
+Python For Offensive PenTest
+Hussam Khrais
+April 2018
+
+
+What You Will Learn
+Code your own reverse shell (TCP and HTTP)
+Create your own anonymous shell by interacting with Twitter, Google Forms, and SourceForge
+Replicate Metasploit features and build an advanced shell
+Hack passwords using multiple techniques (API hooking, keyloggers, and clipboard hijacking)
+Exfiltrate data from your target
+Add encryption (AES, RSA, and XOR) to your shell to learn how cryptography is being abused by malware
+Discover privilege escalation on Windows with practical examples
+Countermeasures against most attacks
+
+
+```
+#  2017
+
+```
+[已買]Python For Offensive PenTest: A Complete Practical Course [Video]
+Hussam Khrais
+Friday, September 15, 2017
+
+QUICK INTRO
+WARMING UP - YOUR FIRST ANTI-VIRUS FREE PERSISTENCE SHELL
+ADVANCED SCRIPTABLE SHELL
+PASSWORDS HACKING
+CATCH ME IF YOU CAN!
+MISCELLANEOUS FUN IN WINDOWS
++BONUS: HOW MALWARE ABUSE CRYPTOGRAPHY? PYTHON ANSWERS
+```
+
+
+```
+
+
+```
+
+
+#  2016
+
+```
+[已買]Python: Penetration Testing for Developers
+Christopher Duffy et al.
+October 2016
+
+1: UNDERSTANDING THE PENETRATION TESTING METHODOLOGY
+2: THE BASICS OF PYTHON SCRIPTING
+3: IDENTIFYING TARGETS WITH NMAP, SCAPY, AND PYTHON
+4: EXECUTING CREDENTIAL ATTACKS WITH PYTHON
+5: EXPLOITING SERVICES WITH PYTHON
+6: ASSESSING WEB APPLICATIONS WITH PYTHON
+7: CRACKING THE PERIMETER WITH PYTHON
+8: EXPLOIT DEVELOPMENT WITH PYTHON, METASPLOIT, AND IMMUNITY
+9: AUTOMATING REPORTS AND TASKS WITH PYTHON
+10: ADDING PERMANENCY TO PYTHON TOOLS
+11: PYTHON WITH PENETRATION TESTING AND NETWORKING
+12: SCANNING PENTESTING
+13: SNIFFING AND PENETRATION TESTING
+14: WIRELESS PENTESTING
+15: FOOT PRINTING OF A WEB SERVER AND A WEB APPLICATION
+16: CLIENT-SIDE AND DDOS ATTACKS
+17: PENTESTING OF SQLI AND XSS
+18: GATHERING OPEN SOURCE INTELLIGENCE
+19: ENUMERATION
+20: VULNERABILITY IDENTIFICATION
+21: SQL INJECTION
+22: WEB HEADER MANIPULATION
+23: IMAGE ANALYSIS AND MANIPULATION
+24: ENCRYPTION AND ENCODING
+25: PAYLOADS AND SHELLS
+26: REPORTING
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+```
